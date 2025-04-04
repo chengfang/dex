@@ -22,7 +22,6 @@ linters:
         - depguard
         - dogsled
         - exhaustive
-        - exportloopref
         - gci
         - gochecknoinits
         - gocritic
