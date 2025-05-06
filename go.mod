@@ -1,6 +1,6 @@
 module github.com/dexidp/dex
 
-go 1.23.8
+go 1.23.6
 
 require (
 	cloud.google.com/go/compute/metadata v0.5.0
